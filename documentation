@@ -1,0 +1,6 @@
+The line # curl -OL https://storage.googleapis.com/coco-dataset/external/PASCAL_VOC.zip
+does not work. The file is restricted. The link below provides the required annotation files:
+https://drive.google.com/drive/folders/1KtfQovwqE1XD4yh0aBtShrlRnhrDhLrX
+
+Following the guide from this blog post:
+https://blogs.rstudio.com/ai/posts/2018-11-05-naming-locating-objects/
